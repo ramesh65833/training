@@ -1,0 +1,3 @@
+1. Html - Show me a button, Onclick of button i should get alert/popup as "Hello World"
+2. CSS - Show me a picture with 50% transparency
+3. Javascript - Sort a list of 5 strings
