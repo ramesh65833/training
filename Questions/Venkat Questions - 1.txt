@@ -1,0 +1,15 @@
+Javascript :
+1. What is Javascript ? - It's engine of the website
+2. What is different bettwen ES5 AND ES6 ? - It's standard of browser feature
+3. What is current Version of Javascript Engine ? - V8
+4. What is Vanilla Javascript ? - Pure Javascript which we using
+
+CSS : 
+1. What is CSS Box ? - F12, Computed --> Selected any item in webpage
+2. What is SCSS, LESS ? - On top of CSS
+
+HTML : 
+1. What is HTML ? - It's Skelton of Webpage
+2. What is current Version of HTML ? - V5
+3. What is difference between XHTML and HTML ? - XML + HTML
+4. What is Meta Tag ? - Define the data
