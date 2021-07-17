@@ -1,0 +1,8 @@
+Topic : Meet up form
+
+1) Webpage should have top section and booth section
+2) In top section, A Meetup form should be there to fill up
+3) Meetup Form should include - name (text box), image url (text box), location (text box ), description (text box), comments (text area) , submit (button)
+4) When a user fill the Meetup form and click button submit, all the information should display in bottom section
+5) In bottom section, Meetup information should be there which filled up in top section.
+6) In Meetup information, user should see the image instead of image url
