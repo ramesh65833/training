@@ -1,0 +1,7 @@
+Basics : 
+Webpage --> HTML,CSS,JS,IMAGE,FONT,XHR (JSON, TEXT, CONTENT STREAM, XML)
+HTML -- Skeleton of the Webpage
+CSS -- Cosmetics of the Webpage
+JS -- Manipulator of the Webpage
+IMAGE, FONT -- JUST AN RESOURCE
+XHR -- FROM EXTERNAL DATA
